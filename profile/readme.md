@@ -12,3 +12,5 @@ Here you will find some awesome resources compiled and written by [@jktrn](https
 
 ### Contact
 - htpa.tsa@gmail.com
+
+<p align="right"><sub>(Banner credit to http://do.co/tuxwithfriends)</sub></p>
