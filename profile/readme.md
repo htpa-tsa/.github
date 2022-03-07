@@ -11,6 +11,6 @@
 - [htpa-tsa/pico](https://github.com/htpa-tsa/pico): Regarding picoCTF gym solves to gain exposure to various CTF techniques.
 
 ### Contact
-- htpa.tsa@gmail.com
+- htpatsa@gmail.com
 
 <p align="right"><sub>(Banner credit to <a href="http://do.co/tuxwithfriends">Digital Ocean</a>)</sub></p>
