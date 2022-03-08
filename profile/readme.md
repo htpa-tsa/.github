@@ -12,5 +12,6 @@
 
 ### Contact
 - htpatsa@gmail.com
+- [@jktrn](https://github.com/jktrn)
 
 <p align="right"><sub>(Banner credit to <a href="http://do.co/tuxwithfriends">Digital Ocean</a>)</sub></p>
