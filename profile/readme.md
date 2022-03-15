@@ -8,7 +8,7 @@
 
 ## Repositories
 - [htpa-tsa/cyber](https://github.com/htpa-tsa/cyber): 📘 Regarding Linux 101 and the format, fundamentals and fun of a CTF competition.
-- [htpa-tsa/pico](https://github.com/htpa-tsa/pico): 🏳 Regarding picoCTF gym solves to gain exposure to various CTF techniques.
+- [htpa-tsa/picogym](https://github.com/htpa-tsa/picogym): 🏳 Regarding picoCTF gym solves to gain exposure to various CTF techniques.
 - [htpa-tsa/capsule](https://github.com/htpa-tsa/capsule): 🎮 Submission for TSA California state game design competition, by Caleb and Santa!
 
 ### Contact
