@@ -13,6 +13,6 @@
 
 ### Contact
 - htpatsa@gmail.com
-- contact@enscribe.dev
+- jason@enscribe.dev
 
 <p align="right"><sub>(Banner credit to <a href="http://do.co/tuxwithfriends">Digital Ocean</a>)</sub></p>
