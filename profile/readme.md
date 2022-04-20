@@ -12,7 +12,7 @@
 - [htpa-tsa/capsule](https://github.com/htpa-tsa/capsule): 🎮 Submission for TSA California state game design competition, by Caleb and Santa!
 
 ### Contact
-- mailto:htpatsa@gmail.com
-- mailto:contact@enscribe.dev
+- htpatsa@gmail.com
+- contact@enscribe.dev
 
 <p align="right"><sub>(Banner credit to <a href="http://do.co/tuxwithfriends">Digital Ocean</a>)</sub></p>
